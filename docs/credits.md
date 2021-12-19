@@ -3,28 +3,6 @@
 ### Sponsors
 <!-- readme: sponsors -start -->
 <table>
-<tr>
-    <td align="center">
-        <a href="https://github.com/BOZG">
-            <img src="https://avatars.githubusercontent.com/u/6022344?u=a52f42b946a1e1156f7bb9d7f65e9e28bb2da89f&v=4" width="80;" alt="BOZG"/>
-            <br />
-            <sub><b>Stephen Rigney</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/vlad-timofeev">
-            <img src="https://avatars.githubusercontent.com/u/11474041?v=4" width="80;" alt="vlad-timofeev"/>
-            <br />
-            <sub><b>Vlad Timofeev</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/matthewjdegarmo">
-            <img src="https://avatars.githubusercontent.com/u/46715299?u=65f979e86de9dce8a5fe04df9775d32c6cefd73a&v=4" width="80;" alt="matthewjdegarmo"/>
-            <br />
-            <sub><b>Matthew J. DeGarmo</b></sub>
-        </a>
-    </td></tr>
 </table>
 <!-- readme: sponsors -end -->
 
